@@ -1,0 +1,13 @@
+[
+
+  {
+    "label": "Build",
+    "command": "g++ easy/twoSum.cpp -o bin/target",
+    "use_new_terminal": false,
+  },
+  {
+    "label": "Run",
+    "command": ".\\bin\\target",
+    "use_new_terminal": false
+  }
+]
