@@ -2,7 +2,7 @@
 
   {
     "label": "Build",
-    "command": "g++ -std=c++23 -Wall -Wextra -g easy/twoSum.cpp -o bin/target",
+    "command": "g++ -std=c++23 -Wall -Wextra -g medium/longestSubString.cpp -o bin/target",
     "use_new_terminal": false,
   },
   {
